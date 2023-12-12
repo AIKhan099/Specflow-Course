@@ -9,6 +9,9 @@ namespace sample.StepDefinitions
     [Binding]
     public class ThirdTableDataDrivenExampleStepDefinitions
     {
+        /// <summary>
+        /// 
+        /// </summary>
         LoginPage loginpage = new LoginPage();
 
         IWebDriver driver;
